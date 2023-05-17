@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'domotime-gestionale'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_284855D6E2704775916FFAF4412FBE0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57977735BD2A49C7BF288AB34DA3C630 }}
           package: .
